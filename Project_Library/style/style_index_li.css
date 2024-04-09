@@ -1,0 +1,84 @@
+html,
+body {
+    background: #6665ee;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    margin: 0px 0px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+.container {
+    position: 300px 500px;
+
+}
+
+.container .form {
+    background: #fff;
+    padding: 30px 35px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(64, 76, 186, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#allTheThings {
+    width: 90%;
+    max-width: 600px;
+    margin: 4em auto;
+    color: #94aab0;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#allTheThings input[type="button"] {
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+    background: white;
+    /* border-radius: 0.25em; */
+    padding: 16px 20px;
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.6rem;
+    float: right;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+}
+
+
+#allTheThings input[type="button"]:active {
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    transform: scale(0.9);
+}
+
+a {
+    text-decoration: none;
+}
+
+.a {
+    width: 20%;
+    height: 10%;
+}
+
+button {
+    width: 15%;
+    height: 10%;
+    border: 1px;
+    border-radius: 05px;
+    padding: 8px 15px 8px 15px;
+    margin: 10px 0px 15px 0px;
+    box-shadow: 1px 1px 2px 1px;
+}

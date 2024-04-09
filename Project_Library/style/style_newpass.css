@@ -1,0 +1,64 @@
+ body {
+        background-color: #6665ee;
+    }
+
+    input {
+        width: 40%;
+        height: 5%;
+        border: 1px;
+        border-radius: 05px;
+        padding: 8px 15px 8px 15px;
+        margin: 10px 0px 15px 0px;
+        box-shadow: 1px 1px 2px 1px;
+    }
+
+    .a {
+        width: 20%;
+        height: 10%;
+    }
+
+    button {
+        width: 20%;
+        height: 10%;
+        border: 1px;
+        border-radius: 05px;
+        padding: 8px 15px 8px 15px;
+        margin: 10px 0px 15px 0px;
+        box-shadow: 1px 1px 2px 1px;
+    }
+
+    #blue {
+        width: 50%;
+        height: 10%;
+        border: 1px;
+        border-radius: 05px;
+        padding: 8px 15px 8px 15px;
+        margin: 10px 0px 15px 0px;
+        box-shadow: 1px 1px 2px 1px;
+        background-color: blue;
+        font-size: 20px;
+    }
+
+    #red {
+        width: 50%;
+        height: 10%;
+        border: 1px;
+        border-radius: 05px;
+        padding: 8px 15px 8px 15px;
+        margin: 10px 0px 15px 0px;
+        box-shadow: 1px 1px 2px 1px;
+        background-color: red;
+        font-size: 20px;
+    }
+
+    h2 {
+        width: 50%;
+        height: 10%;
+        border: 1px;
+        border-radius: 05px;
+        padding: 8px 15px 8px 15px;
+        margin: 10px 0px 15px 0px;
+        box-shadow: 1px 1px 2px 1px;
+        background-color: red;
+        font-size: 20px;
+    }
