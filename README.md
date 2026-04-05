@@ -1,4 +1,4 @@
-# Online-Library-System
+# Online-Library-System.
 
 ## Services provided by the system to the following users:
 1. The library staff can store a new book to the book table. 
